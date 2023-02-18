@@ -1,0 +1,36 @@
+body{
+    margin: 40px;
+}
+
+
+label{
+    font-size: larger;
+}
+
+input{
+    padding: 10px 150px;
+    margin-top: 10px;
+}
+#issued-to{
+    margin-left: 18px;
+}
+.btn{
+    padding: 10px 245px;
+    margin-top: 20px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid black;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
